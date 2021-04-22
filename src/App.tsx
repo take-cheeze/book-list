@@ -69,10 +69,10 @@ function App() {
               <ul>
                 {
                   Config.libraries.map(l => (
-                    <li><Link to={`/${l}`}>{l}</Link></li>
+                    <li><Link to={`/book-list/${l}`}>{l}</Link></li>
                   ))
                 }
-                <li><Link to="/should_buy">Should buy</Link></li>
+                <li><Link to="/book-list/should_buy">Should buy</Link></li>
               </ul>
             </li>
           </ul>
@@ -80,7 +80,7 @@ function App() {
 
         <Switch>
           {Config.libraries.concat('should_buy').map(l => (
-            <Route path={`/${l}`}>
+            <Route path={`/book-list/${l}`}>
               <h1>Book List: {l} ({libraries_table[l].length} books)</h1>
               <Table>
                 <TableHead>
