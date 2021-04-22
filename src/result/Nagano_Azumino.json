@@ -1,0 +1,35 @@
+[
+  {
+    "isbn": "4274066282",
+    "title": "よくわかる有限要素法",
+    "author": "福森栄次",
+    "publisher": "オーム社",
+    "release_date": "2005-11-01",
+    "pages": 287,
+    "price": "",
+    "reserve_url": "https://lib.city.azumino.nagano.jp/WebOpac/webopac/searchdetail.do?biblioid=693416#v2",
+    "image_url": "https://m.media-amazon.com/images/I/51NBJ9Y6ZPL._SL500_.jpg"
+  },
+  {
+    "isbn": "4339056286",
+    "title": "水文学 (土木・環境系コアテキストシリーズ)",
+    "author": "風間聡",
+    "publisher": "コロナ社",
+    "release_date": "2011-09-12",
+    "pages": 176,
+    "price": "",
+    "reserve_url": "https://lib.city.azumino.nagano.jp/WebOpac/webopac/searchdetail.do?biblioid=10056490#v2",
+    "image_url": "https://m.media-amazon.com/images/I/41JSr3V+hUL.jpg"
+  },
+  {
+    "isbn": "405302904X",
+    "title": "高校の化学がキホンからわかる本 (大人の教養シリーズ)",
+    "author": "小池興次郎",
+    "publisher": "学研プラス",
+    "release_date": null,
+    "pages": 288,
+    "price": "",
+    "reserve_url": "https://lib.city.azumino.nagano.jp/WebOpac/webopac/searchdetail.do?biblioid=1217326#v2",
+    "image_url": "https://m.media-amazon.com/images/I/41TJjtLuZVL._SL500_.jpg"
+  }
+]
